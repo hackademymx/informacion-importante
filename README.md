@@ -9,7 +9,7 @@ En este repositorio podrán encontrár recursos e información valiosa para tú 
     - ¿Qué esperan de mi?
     - Herramientas que utilizamos
         - Canales de interés
-- Cursos
+- [Cursos](https://github.com/hackademymx/informacion-importante/tree/master/cursos)
     - [Tronco común](https://github.com/hackademymx/informacion-importante/blob/master/cursos/tronco-comun.md)
         - Descripción
         - Temario
@@ -45,7 +45,7 @@ En este repositorio podrán encontrár recursos e información valiosa para tú 
         - Recursos
         - Oportunidades laborales
         - Mentores
-- Chambas 
+- [Chambas](https://github.com/hackademymx/informacion-importante/tree/master/chambas) 
     - [Front end](https://github.com/hackademymx/informacion-importante/blob/master/chambas/front-end.md)
     - [Back end](https://github.com/hackademymx/informacion-importante/blob/master/chambas/back-end.md)
     - [UX/UI](https://github.com/hackademymx/informacion-importante/blob/master/chambas/ux-ui.md)
