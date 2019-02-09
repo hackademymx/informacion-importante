@@ -16,34 +16,34 @@ En este repositorio podrán encontrár recursos e información valiosa para tú 
         - Mentores
     - Front end
         - Descripción
-            - Temario
-            - Recursos
-            - Oportunidades laborales
-            - Mentores
+        - Temario
+        - Recursos
+        - Oportunidades laborales
+        - Mentores
     - Back end
         - Descripción
-            - Temario
-            - Recursos
-            - Oportunidades laborales
-            - Mentores
+        - Temario
+        - Recursos
+        - Oportunidades laborales
+        - Mentores
     - UX/UI
         - Descripción
-            - Temario
-            - Recursos
-            - Oportunidades laborales
-            - Mentores
+        - Temario
+        - Recursos
+        - Oportunidades laborales
+        - Mentores
     - Project Management    
         - Descripción
-            - Temario
-            - Recursos
-            - Oportunidades laborales
-            - Mentores
+        - Temario
+        - Recursos
+        - Oportunidades laborales
+        - Mentores
     - Desarrollo móvil
         - Descripción
-            - Temario
-            - Recursos
-            - Oportunidades laborales
-            - Mentores
+        - Temario
+        - Recursos
+        - Oportunidades laborales
+        - Mentores
 - Preguntas frecuentes
     - ¿Tengo duda y no pude encontrar la respuesta?
 
