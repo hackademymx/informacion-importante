@@ -1,7 +1,7 @@
 # Información importante :speaker:
 En este repositorio podrán encontrár recursos e información valiosa para tú desarrollo dentro de **Hackademy** como:
 
-- Información general
+- [Información general](https://github.com/hackademymx/informacion-importante/blob/master/informaci%C3%B3n-general.md)
     - ¿Qué es hackademy?
     - ¿Dónde nos encontramos?
     - ¿Cómo ingresar?
