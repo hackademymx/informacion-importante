@@ -8,6 +8,7 @@ En este repositorio podrán encontrár recursos e información valiosa para tú 
     - ¿Qué puedo esperar de Hackademy?
     - ¿Qué esperan de mi?
     - Herramientas que utilizamos
+        - Canales de interés
 - Cursos
     - [Tronco común](https://github.com/hackademymx/informacion-importante/blob/master/cursos/tronco-comun.md)
         - Descripción
@@ -44,6 +45,13 @@ En este repositorio podrán encontrár recursos e información valiosa para tú 
         - Recursos
         - Oportunidades laborales
         - Mentores
+- Chambas 
+    - [Front end](https://github.com/hackademymx/informacion-importante/blob/master/chambas/front-end.md)
+    - [Back end](https://github.com/hackademymx/informacion-importante/blob/master/chambas/back-end.md)
+    - [UX/UI](https://github.com/hackademymx/informacion-importante/blob/master/chambas/ux-ui.md)
+    - [Project Management](https://github.com/hackademymx/informacion-importante/blob/master/chambas/project-management.md)
+    - [Desarrollo móvil](https://github.com/hackademymx/informacion-importante/blob/master/chambas/desarrollo-movil.md)
+    
 - Preguntas frecuentes
     - ¿Tengo duda y no pude encontrar la respuesta?
 
