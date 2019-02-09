@@ -9,36 +9,36 @@ En este repositorio podrán encontrár recursos e información valiosa para tú 
     - ¿Qué esperan de mi?
     - Herramientas que utilizamos
 - Cursos
-    - Tronco común
+    - [Tronco común](https://github.com/hackademymx/informacion-importante/blob/master/cursos/tronco-comun.md)
         - Descripción
         - Temario
         - Oportunidades laborales
         - Mentores
-    - Front end
-        - Descripción
-        - Temario
-        - Recursos
-        - Oportunidades laborales
-        - Mentores
-    - Back end
+    - [Front end](https://github.com/hackademymx/informacion-importante/blob/master/cursos/font-end.md)
         - Descripción
         - Temario
         - Recursos
         - Oportunidades laborales
         - Mentores
-    - UX/UI
+    - [Back end](https://github.com/hackademymx/informacion-importante/blob/master/cursos/back-end.md)
         - Descripción
         - Temario
         - Recursos
         - Oportunidades laborales
         - Mentores
-    - Project Management    
+    - [UX/UI](https://github.com/hackademymx/informacion-importante/blob/master/cursos/ux-ui.md)
         - Descripción
         - Temario
         - Recursos
         - Oportunidades laborales
         - Mentores
-    - Desarrollo móvil
+    - [Project Management](https://github.com/hackademymx/informacion-importante/blob/master/cursos/project-management.md)    
+        - Descripción
+        - Temario
+        - Recursos
+        - Oportunidades laborales
+        - Mentores
+    - [Desarrollo móvil](https://github.com/hackademymx/informacion-importante/blob/master/cursos/desarrollo-movil.md)
         - Descripción
         - Temario
         - Recursos
