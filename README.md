@@ -1,2 +1,49 @@
 # Información importante :speaker:
-En este repositorio podrán encontrár recursos e información valiosa
+En este repositorio podrán encontrár recursos e información valiosa para tú desarrollo dentro de **Hackademy** como:
+
+- Información general
+    - ¿Qué es hackademy?
+    - ¿Dónde nos encontramos?
+    - ¿Cómo ingresar?
+    - ¿Qué puedo esperar de Hackademy?
+    - ¿Qué esperan de mi?
+    - Herramientas que utilizamos
+- Cursos
+    - Tronco común
+        - Descripción
+        - Temario
+        - Oportunidades laborales
+        - Mentores
+    - Front end
+        - Descripción
+            - Temario
+            - Recursos
+            - Oportunidades laborales
+            - Mentores
+    - Back end
+        - Descripción
+            - Temario
+            - Recursos
+            - Oportunidades laborales
+            - Mentores
+    - UX/UI
+        - Descripción
+            - Temario
+            - Recursos
+            - Oportunidades laborales
+            - Mentores
+    - Project Management    
+        - Descripción
+            - Temario
+            - Recursos
+            - Oportunidades laborales
+            - Mentores
+    - Desarrollo móvil
+        - Descripción
+            - Temario
+            - Recursos
+            - Oportunidades laborales
+            - Mentores
+- Preguntas frecuentes
+    - ¿Tengo duda y no pude encontrar la respuesta?
+
