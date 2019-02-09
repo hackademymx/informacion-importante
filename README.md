@@ -53,5 +53,4 @@ En este repositorio podrán encontrár recursos e información valiosa para tú 
     - [Desarrollo móvil](https://github.com/hackademymx/informacion-importante/blob/master/chambas/desarrollo-movil.md)
     
 - [Preguntas frecuentes](https://github.com/hackademymx/informacion-importante/blob/master/preguntas-frecuentes.md)
-    - ¿Tengo duda y no pude encontrar la respuesta?
 
