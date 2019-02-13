@@ -1,4 +1,4 @@
-# Tronco común
+# Desarrollo móvil
 ## Descripción
 ## Temario
 ## Oportunidades laborales

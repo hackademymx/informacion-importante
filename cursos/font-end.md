@@ -1,4 +1,4 @@
-# Tronco común
+# Front end
 ## Descripción
 ## Temario
 ## Oportunidades laborales
