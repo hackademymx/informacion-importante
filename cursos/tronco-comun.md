@@ -1,12 +1,16 @@
 # Tronco común
-
-
 ## Descripción
 ## Temario
 - **Bash**
   - [Recurso 1](https://www.bash.academy)
   - [Recurso 2](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
   - [Recurso 3](https://www.w3.org/International/questions/qa-what-is-encoding)
+- **HTML y CSS**
+  - [Recurso 1](https://www.codecademy.com/learn/learn-html)
+  - [Recurso 2](https://flexboxfroggy.com/#es)
+  - [Recurso 3](https://www.codecademy.com/learn/learn-responsive-design)
+  - [Recurso 4](https://www.codecademy.com/learn/learn-sass)
+  - [Recurso 5](https://www.learn-html.org/)
 - **Javascript**
   - [Recurso 1](https://www.codecademy.com/learn/introduction-to-javascript)
   - [Recurso 2](https://www.codecademy.com/learn/learn-javascript)
@@ -21,5 +25,4 @@
   - [Recurso 11](https://medium.com/@seanmcp/js-basics-arrays-44f74169fd28)
   - [Recurso 12](https://medium.com/@seanmcp/js-basics-length-method-1dca0423e174)
 
-## Oportunidades laborales
 ## Mentores
