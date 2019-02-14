@@ -18,6 +18,7 @@ En estos momentos nos encontramos en **Mazatlán, La Cruz de Elota, Culiacán, L
 Los requerimientos para entrar:
 - Ser estudiante del ultimo año de carrera o tener menos de 1 año de egresado.
 - Tener bases de programación lógica.
+- Haber participado en [El club de programación](https://github.com/hackademymx/informacion-importante/blob/master/cursos/tronco-comun.md)
 - Tener disponible de 3pm a 4pm de lunes a viernes durante 4 meses
 - Estar registrado en el club de programación de Tomato Valley (Si aún lo estas, ¡Regístrate! es gratis)
 - Realizar el pre-registro en www.hackademy.mx
