@@ -1,5 +1,17 @@
-# Tronco común
+# Club de programación
 ## Descripción
+El club de programación es un espacio creado para:
+
+- Compartir recursos y ejercicios.
+- Compartir experiencia con los que van empezando.
+- Aprender entre todos.
+- Practicar.
+- **Iniciar en el mundo de la programación.**
+
+En este club participan desarrolladores, profesores, mentores, alumnos de prepa y de universidad que buscan compartir lo poco o mucho que saben.
+
+**Para alumnos de universidad que buscan entrar a Hackademy este es el primer paso**
+
 ## Temario
 - **Bash**
   - [Recurso 1](https://www.bash.academy)
