@@ -15,9 +15,34 @@ En estos momentos nos encontramos en **Mazatlán, La Cruz de Elota, Culiacán, L
 
 ## ¿Cómo ingresar?
 
+Los requerimientos para entrar:
+- Ser estudiante del ultimo año de carrera o tener menos de 1 año de egresado.
+- Tener bases de programación lógica.
+- Tener disponible de 3pm a 4pm de lunes a viernes durante 4 meses
+- Estar registrado en el club de programación de Tomato Valley (Si aún lo estas, ¡Regístrate! es gratis)
+- Realizar el pre-registro en www.hackademy.mx
+- Hacer el examen
+- Hacer la entrevista
+
 ## ¿Qué puedo esperar de Hackademy?
 
+- Apoyo de mentores que llevan años trabajando en la industria TI
+- Contenido de apoyo
+- Asistencia para el desarrollo de tu CV y tu perfil
+- Una agenda de entrevistas para conseguir tu empleo
+- Herramientas para poder realizar el proyecto que se te asigne
+- Carta de recomendación y experiencia laboral
+- Respaldo al momento de buscar empleo
+- Una red de mentores y una comunidad robusta
+
 ## ¿Qué esperan de mi?
+
+- Compromiso y ganas de aprender
+- Cumplir con las mentorías que se te asignan
+- Cumplir con el proyecto asignado
+- Cumplir con las 4 horas diarias de asistencia (de lunes a viernes)
+- Ser proactivo
+- Finalizar el proceso
 
 ## Herramientas que utilizamos
 
