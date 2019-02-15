@@ -37,4 +37,5 @@ En este club participan desarrolladores, profesores, mentores, alumnos de prepa 
   - [Recurso 11](https://medium.com/@seanmcp/js-basics-arrays-44f74169fd28)
   - [Recurso 12](https://medium.com/@seanmcp/js-basics-length-method-1dca0423e174)
 
+- **Algorítmos**
 ## Mentores
