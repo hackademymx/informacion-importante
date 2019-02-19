@@ -1,7 +1,7 @@
 # Front end
 ## Descripción
 
-En el programa de Front end trabajamos con 2 tecnología: Angular y Vue.
+En el programa de Front end trabajamos con 2 tecnologías: Angular y Vue.
 Durante 14 semanas desarrollaras el front de una plataforma lo que te permitirá entender el funcionamiento de la tecnología para poder aplicarla en otros proyectos futuros.
 
 ## Temario
