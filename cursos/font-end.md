@@ -7,6 +7,7 @@ Durante 14 semanas desarrollaras el front de una plataforma lo que te permitirá
 ## Temario
 
 ### VueJS
+- GIT y SCRUM 
 - Introducción
   - ¿Qué es VueJs?
   - Frameworks similares y sus diferencias
@@ -82,6 +83,7 @@ Durante 14 semanas desarrollaras el front de una plataforma lo que te permitirá
     
 
 ### Temario Angular
+- GIT y SCRUM
 - CLI
 - Paquetes npm 
 - Componentes
