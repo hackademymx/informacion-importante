@@ -10,11 +10,14 @@ En este repositorio podrán encontrár recursos e información valiosa para tú 
     - Herramientas que utilizamos
         - Canales de interés
 - [Cursos](https://github.com/hackademymx/informacion-importante/tree/master/cursos)
-    - [Tronco común](https://github.com/hackademymx/informacion-importante/blob/master/cursos/tronco-comun.md)
+    - [Club de programación](https://github.com/hackademymx/informacion-importante/blob/master/cursos/club.md)
         - Descripción
         - Temario
         - Oportunidades laborales
         - Mentores
+    - [Tronco común](https://github.com/hackademymx/informacion-importante/blob/master/cursos/tronco-comun.md)
+        - Descripción
+        - Temario
     - [Front end](https://github.com/hackademymx/informacion-importante/blob/master/cursos/font-end.md)
         - Descripción
         - Temario
