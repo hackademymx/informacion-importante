@@ -1,4 +1,4 @@
-# Club de programación
+# Tronco común
 ## Descripción
 El tronco común tiene una duración de 15 días y lo toman todos los padawans de Hackademy, en esta estapa se ven GIT y SCRUM para que todos puedan trabajar bajo la misma metodología
 
