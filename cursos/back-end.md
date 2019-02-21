@@ -5,6 +5,7 @@ Aprenderas desde desarrollo de API's, conexión a la base de datos, desarrollo d
 ## Temario
 
 ### Python
+- GIT y SCRUM
 - Instalación de Python en ambientes *nix
 - Instalación de Django
 - Creación de un proyecto en Django
@@ -18,6 +19,7 @@ Aprenderas desde desarrollo de API's, conexión a la base de datos, desarrollo d
 - Deploy en AWS/Digital Ocean
 
 ### NodeJS
+- GIT y SCRUM
 - Introducción a Node.js
   - Consideraciones
   - Qué es Node.js
