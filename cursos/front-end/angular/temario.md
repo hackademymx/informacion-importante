@@ -1,0 +1,21 @@
+# Angular
+- CLI
+- Paquetes npm 
+- Componentes
+- Interpolación
+- Property Binding
+- 2 Way data binding
+- Módulos
+  - Atomización de módulos
+- Input usuario
+- Directivas
+  - NgIf
+  - NgFor
+  - NgSwitch
+- Interacción de componentes
+  - Input
+  - Output
+  - Event Emitters
+  - Servicios
+- Arquitectura de aplicaciones
+- Emplaquetamiento y deploy de aplicaciones 
