@@ -24,4 +24,5 @@ Durante 14 semanas desarrollaras el front de una plataforma lo que te permitirá
 
 
 ## Oportunidades laborales
+[**Click acá**](https://github.com/hackademymx/informacion-importante/blob/master/chambas/front-end.md)
 ## Mentores
