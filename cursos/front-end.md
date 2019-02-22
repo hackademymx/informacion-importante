@@ -5,9 +5,8 @@ En el programa de Front end trabajamos con 2 tecnologías: Angular y Vue.
 Durante 14 semanas desarrollaras el front de una plataforma lo que te permitirá entender el funcionamiento de la tecnología para poder aplicarla en otros proyectos futuros.
 ## Indice
 - [**Temario**](#Temario)
-  - [**Esenciales**](#esenciales)
-  - [**Vue**](#VueJS)
   - [**Angular**](#Angular)
+  - [**Vue**](#Vue)
 - [**Oportunidades Laborales**](#Oportunidades-laborales)
 - [**Mentores**](#Mentores)
 
@@ -16,9 +15,9 @@ Durante 14 semanas desarrollaras el front de una plataforma lo que te permitirá
 - Git
 - SCRUM
 
-[Angular]()
+[Angular](https://github.com/hackademymx/informacion-importante/blob/master/cursos/front-end/angular.md)
 
-[Vue]()
+[Vue](https://github.com/hackademymx/informacion-importante/blob/master/cursos/front-end/vue.md)
 
 
 
