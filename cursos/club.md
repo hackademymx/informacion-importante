@@ -15,8 +15,9 @@ En este club participan desarrolladores, profesores, mentores, alumnos de prepa 
 ## Temario
 - **Bash**
   - [Recurso 1](https://www.bash.academy)
-  - [Recurso 2](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
-  - [Recurso 3](https://www.w3.org/International/questions/qa-what-is-encoding)
+  - [Recurso 2](https://ryanstutorials.net/bash-scripting-tutorial)
+  - [Recurso 3](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+  - [Recurso 4](https://www.w3.org/International/questions/qa-what-is-encoding)
 - **HTML y CSS**
   - [Recurso 1](https://www.codecademy.com/learn/learn-html)
   - [Recurso 2](https://flexboxfroggy.com/#es)
