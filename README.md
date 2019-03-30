@@ -18,7 +18,7 @@ En este repositorio podrán encontrár recursos e información valiosa para tú 
     - [Tronco común](https://github.com/hackademymx/informacion-importante/blob/master/cursos/tronco-comun.md)
         - Descripción
         - Temario
-    - [Front end](https://github.com/hackademymx/informacion-importante/blob/master/cursos/font-end.md)
+    - [Front end](https://github.com/hackademymx/informacion-importante/blob/master/cursos/front-end.md)
         - Descripción
         - Temario
         - Recursos
