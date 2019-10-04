@@ -3,7 +3,7 @@ En este repositorio podrán encontrár recursos e información valiosa para tú 
 
 - [Información general](https://github.com/hackademymx/informacion-importante/blob/master/informaci%C3%B3n-general.md)
     - ¿Qué es hackademy?
-    - ¿Dónde nos encontramos?
+    - ¿Dónde nos encontramos ahora?
     - ¿Cómo ingresar?
     - ¿Qué puedo esperar de Hackademy?
     - ¿Qué esperan de mi?
